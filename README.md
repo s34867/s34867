@@ -1,4 +1,4 @@
-## gok gok gok gok
+## hello thailand
 
 <!--
 **s34867/s34867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
